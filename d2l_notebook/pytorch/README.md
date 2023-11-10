@@ -1,7 +1,4 @@
-
 ## # Notes for d2l-en
-
-
 
 ## Awesome pytorch resources
 
